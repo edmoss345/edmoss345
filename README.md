@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @edmoss345
+- 👀 I’m interested in web development, app development and data science
+- 🌱 I’m currently learning django and flutter
+- 📫 How to reach me, ed.moss@eemengineering.com
